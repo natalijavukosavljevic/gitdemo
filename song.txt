@@ -9,3 +9,6 @@ Shield by shield
 bla vla
 bla mgm
 --------------
+
+dodala 
+zbog grane feature
