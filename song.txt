@@ -12,3 +12,5 @@ bla mgm
 
 dodala 
 zbog grane feature
+
+jos zbog grane
